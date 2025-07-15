@@ -1,7 +1,3 @@
-
-
----
-
 # Heart Disease Prediction
 
 This project uses machine learning to predict the presence of heart disease in patients based on a set of medical attributes. The analysis is conducted within a Jupyter Notebook and includes data loading, exploratory data analysis (EDA), data preprocessing, model training, and performance evaluation.
